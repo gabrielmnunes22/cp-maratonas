@@ -1,0 +1,9 @@
+# Artefatos de compilação
+*.exe
+*.o
+*.obj
+**/build/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
